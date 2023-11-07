@@ -6,4 +6,24 @@
         <default>false</default>
         <label>None</label>
     </standardValue>
+    <standardValue>
+        <fullName>HR</fullName>
+        <default>false</default>
+        <label>HR</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Talent</fullName>
+        <default>false</default>
+        <label>Talent</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Time &amp; Attendance</fullName>
+        <default>false</default>
+        <label>Time &amp; Attendance</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Compliance</fullName>
+        <default>false</default>
+        <label>Compliance</label>
+    </standardValue>
 </StandardValueSet>
