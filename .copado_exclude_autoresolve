@@ -6,6 +6,6 @@
 # please remove comment (#) to "activate" a statement and start resolving conflicts for specific metadata manually in Copado:
 **/classes/*.cls
 **/pages/**
-#**/layouts/*.layout-meta.xml
+**/layouts/*.layout-meta.xml
 **/triggers/**
 **/lwc/**
