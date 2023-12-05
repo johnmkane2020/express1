@@ -31,6 +31,10 @@
                 <behavior>Edit</behavior>
                 <field>testpoc__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test_Pick__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
