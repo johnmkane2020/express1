@@ -40,7 +40,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>COE__c</field>
+                <field>Account_Category__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
