@@ -19,11 +19,11 @@ public class AccountAutomations {
         return a;
     }
     public static Account setDefaultPhone(Account a) {
-        a.Phone='688451111';
+        a.Phone='688456789';
         return a;
     }
     public static Account setDefaultURL(Account a) {
-        a.website = 'www.copa.site'; 
+        a.website = 'www.copa.do'; 
         return a;
     }
 }
