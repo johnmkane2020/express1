@@ -11722,6 +11722,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.SBA_Number__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.SBQQ__AssetQuantitiesCombined__c</field>
         <readable>true</readable>
     </fieldPermissions>
