@@ -15,7 +15,7 @@
                 <field>Status__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Readonly</behavior>
                 <field>Close_Date__c</field>
             </layoutItems>
         </layoutColumns>
