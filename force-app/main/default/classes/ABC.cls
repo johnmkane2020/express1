@@ -7,5 +7,9 @@ public class ABC {
     public void printAddress(){
         system.debug('ABC Street, ABC City, ABC County');
     }
+    
+    Public void printDate(){
+        system.debug('jan 18th');
+    }
 
 }
