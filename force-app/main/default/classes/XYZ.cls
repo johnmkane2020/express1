@@ -1,7 +1,6 @@
 public class XYZ {
-    
     public void printName(){
-        system.debug('My Name is ABC');
+        system.debug('My Name is XYZ');
     }
     
     public void printAddress(){
