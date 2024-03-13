@@ -9,3 +9,4 @@
 **/layouts/*.layout-meta.xml
 **/triggers/**
 **/lwc/**
+**/flows/*.flow-meta.xml
