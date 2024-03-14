@@ -31,6 +31,12 @@
         <locationX>176</locationX>
         <locationY>323</locationY>
         <inputAssignments>
+            <field>Email</field>
+            <value>
+                <stringValue>example@bbb.bbb</stringValue>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
             <field>FirstName</field>
             <value>
                 <stringValue>Clark</stringValue>
