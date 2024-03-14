@@ -51,6 +51,14 @@
         <connector>
             <targetReference>Create_Contact</targetReference>
         </connector>
+        <filterLogic>and</filterLogic>
+        <filters>
+            <field>AccountId</field>
+            <operator>NotEqualTo</operator>
+            <value>
+                <stringValue>1</stringValue>
+            </value>
+        </filters>
         <object>Contact</object>
         <recordTriggerType>Create</recordTriggerType>
         <triggerType>RecordAfterSave</triggerType>
