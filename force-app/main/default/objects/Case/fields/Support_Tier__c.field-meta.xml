@@ -3,7 +3,7 @@
     <fullName>Support_Tier__c</fullName>
     <externalId>false</externalId>
     <label>Support Tier</label>
-    <precision>2</precision>
+    <precision>1</precision>
     <required>false</required>
     <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
