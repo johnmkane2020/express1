@@ -31,6 +31,12 @@
         <locationX>176</locationX>
         <locationY>323</locationY>
         <inputAssignments>
+            <field>FirstName</field>
+            <value>
+                <stringValue>Clark</stringValue>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
             <field>LastName</field>
             <value>
                 <stringValue>Griswold</stringValue>
